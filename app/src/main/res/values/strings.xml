@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinCards</string>
+    <string name="notes_title">Editar títol</string>
+    <string name="notes_desc">Editar contingut</string>
+    <string name="search">Busca les teves flashcards</string>
+    <string name="storage_permission_text">Aquesta app necessita permisos per guardar la base de dades local.</string>
+</resources>
